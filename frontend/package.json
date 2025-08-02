@@ -2,7 +2,7 @@
   "name": "chess-coaching-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/chess-coaching-website",
+  "homepage": "https://CodingTimeYog.github.io/chess-coaching-website",
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
